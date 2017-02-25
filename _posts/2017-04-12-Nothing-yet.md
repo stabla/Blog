@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hello test"
-description: "Nothing yet."
+title: "Nothing yet"
+description: "Vacuum of space."
 date: 2017-02-25
-tags: [test, style]
-comments: true
-share: true
+tags: [first, jekyll]
+comments: false
+share: false
 ---
 
 
