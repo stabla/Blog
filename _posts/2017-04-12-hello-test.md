@@ -1,19 +1,19 @@
 ---
 layout: post
 title: "Hello test"
-description: "learning jekyll"
-date: 2017-02-04
+description: "Nothing yet."
+date: 2017-02-25
 tags: [test, style]
 comments: true
 share: true
 ---
 
 
-## Hello
+## Yes.
 
-What to talking about ?
+Vacuum of space. 
 
-I don't know, just to try something
+Nothing, except some 0 and 1.
 
-
-
+Some cable. 
+And maybe some engineer behind all of this. And soon, some AI.
