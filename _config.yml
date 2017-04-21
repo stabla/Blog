@@ -47,7 +47,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "https://stabla.me"
+    url:            "http://stabla.me"
   - name:           "Archive"
     url:            "archive"
   - name:           "Tags"
