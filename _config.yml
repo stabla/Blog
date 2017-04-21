@@ -3,19 +3,19 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Guillaume Bonnet"
+name:               "stabla"
 
 author:
-  link:             guillaumebonnet.fr
-  twitter:          your-id
+  link:             stabla.me
+  twitter:          janstabla
   github:           stabla
   linkedin:         your-id
-  medium:           your-id
+  medium:           stabla
   email:            stabla@protonmail.com
 
 copyright:
   year:             2017
-  name:             "Guillaume Bonnet"
+  name:             "stabla"
 
 # Google-analytics
 google-analytics:
@@ -26,7 +26,7 @@ disqus:
   id:               "stb-blog"
 
 # URL
-url:                "http://blog.guillaumebonnet.fr" # the base hostname & protocol for your site
+url:                "http://blog.stabla.me" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop https://AWEEKJ.github.io
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -47,7 +47,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "https://guillaumebonnet.fr"
+    url:            "https://stabla.me"
   - name:           "Archive"
     url:            "archive"
   - name:           "Tags"
