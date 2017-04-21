@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>stabla</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Nothing yet</title>
+        <description>&lt;h2 id=&quot;yes&quot;&gt;Yes.&lt;/h2&gt;
+
+&lt;p&gt;Vacuum of space.&lt;/p&gt;
+
+&lt;p&gt;Nothing, except some 0 and 1.&lt;/p&gt;
+
+&lt;p&gt;Some cable. 
+And maybe some engineer behind all of this. And soon, some AI.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017-02-25/Nothing-yet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-25/Nothing-yet/</guid>
+      </item>
+    
+  </channel>
+</rss>
