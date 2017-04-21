@@ -7,10 +7,10 @@ name:               "stabla"
 
 author:
   link:             guillaumebonnet.fr
-  twitter:          janstabla
+  twitter:          your-id
   github:           stabla
   linkedin:         your-id
-  medium:           stabla
+  medium:           your-id
   email:            stabla@protonmail.com
 
 copyright:
@@ -47,7 +47,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "https://guillaumebonnet.fr"
+    url:            "https://stabla.me"
   - name:           "Archive"
     url:            "archive"
   - name:           "Tags"
