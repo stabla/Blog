@@ -1,0 +1,33 @@
+<!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+    {% if site.author.link %}
+    <a href="https://www.{{ site.author.link }}"><i class="fa fa-link" aria-hidden="true"></i></a>
+    {% endif %}
+
+ <!--      {% if site.author.twitter %}
+    <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    {% endif %}-->
+
+   
+    {% if site.author.github %}
+    <a href="https://github.com/{{ site.author.github }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+
+<!--    {% if site.author.linkedin %}
+    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    {% endif %}-->
+
+<!--    {% if site.author.medium %}
+    <a href="https://medium.com/@{{ site.author.medium }}"><i class="fa fa-medium" aria-hidden="true"></i></a>
+    {% endif %}-->
+
+    {% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    {% endif %}
+
+  </div>
+  © {{ site.copyright.year }} {{ site.copyright.name }}. Posting rarely.
+</div>
