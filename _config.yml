@@ -49,7 +49,7 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "http://stabla.me"
+    url:            "http://guillaumebonnet.fr"
   - name:           "Archive"
     url:            "archive"
   - name:           "Tags"
