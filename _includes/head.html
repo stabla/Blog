@@ -4,6 +4,14 @@
   <link rel="icon" type="image/png" href="https://www.guillaumebonnet.fr/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="https://www.guillaumebonnet.fr/favicon-16x16.png" sizes="16x16">
   <title>{% if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="product">
+  <meta name="twitter:site" content="@gsbonnet">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}">
+  <meta name="twitter:description" content=" {% if post.description %} {{ post.description }}{% else %}Just a random blog to throw in space, pls{% endif %}">
+  <meta name="twitter:image" content="https://www.guillaumebonnet.fr/og-image.png">
+
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" type="text/css">
