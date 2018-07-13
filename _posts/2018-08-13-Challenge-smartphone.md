@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "15 days: Decrease my addiction to smartphone"
-description: "[Challenge]."
+description: "I have a bad habit with my smartphone, this is the moment to do something."
 date: 2018-08-13
 tags: [challenge, smartphone, bad, habits]
 comments: true
