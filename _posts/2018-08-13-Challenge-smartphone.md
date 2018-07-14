@@ -15,7 +15,7 @@ Too much! It's too much, too much emails, too much tweets, too much content. Too
 
 [![Source](https://cdn.dribbble.com/users/982094/screenshots/3875776/cover.jpg)](https://dribbble.com/shots/3875776-Message)
 
-I'm checking things I had already checked previously, just to be sure I'm not missing something, but you know what? I'm not missing anything. 
+I'm checking things I have already checked previously, just to be sure I'm not missing something, but you know what? I'm not missing anything. 
 
 #### Problem
 This smartphone is decomposing my capacity to focus, even if I want to work few hours on a project, without being distracted, I'm finishing to take my phone. When I need to think a moment on what I'm doing, I'm taking the easy way and the distraction : opening Twitter, Reddit, checking mails, looking for new Message, nothing. Still nothing, but it took me away from my reflection. Ok, so, I need to change this **bad habit**. 
