@@ -130,7 +130,7 @@ Let’s see what are actually the best practice given by John Crain is chief sec
 
 “A lot of this comes down to data hygiene,” Crain.
 
-### *For large organizations*
+### **For large organizations**
 - **Deploy DNSSEC (both signing zones and validating responses)**
 If **you’re an owner of a domain name**, you should in any case **set up a DNSSEC** for your domain. 
 ![DNSSEC illustration](/images/dns-hijacking-3.png)
@@ -157,7 +157,7 @@ But unfortunately, **DNSSEC will not solve all issues** concerning security thre
 - **Use 2-factor authentication and require it to be used by all relevant users and subcontractor. AS WELL, IMPLEMENT MULTI-FACTOR AUTHENTICATION ON YOUR DOMAIN’S ADMINISTRATION PORTAL.**
 - **Validate the source IPs in OWA/Exchange logs.**
 
-### *For users*
+### **For users**
 - Check the whois or if **IP address changed**
 **As a normal internet user**, spotting a DNS Hijacking is a bit trickier because you have to detect that a whois of a domain name changed. Which is not so easy for non-technical people.  To be honest with you, there’s absolutely no way to protect yourself from the attack that happened (DNSpionage), **because the source is controlled**. Yet, it is unthinkable to check always if the whois changed for each website we log in, the user experience would be terrible. Always put in doubt any website you visit, if you think that there is something not clear, go away.
 
