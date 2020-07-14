@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Article"
+title: "Understrand the DNS Hijacking Attack (2019)"
 description: "Trying to understand and explain what is really DNS Hijacking Attacks (2019)"
 date: 2019-04-08
 tags: [article, dns, hacking, attack, security, blog]
