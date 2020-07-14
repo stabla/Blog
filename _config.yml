@@ -64,9 +64,10 @@ sass:
 defaults:
   -
     scope:
-      path:         ""
+      path:         "images"
       type:         "pages"
     values:
+      image:        true
       layout:       "page"
   -
     scope:
