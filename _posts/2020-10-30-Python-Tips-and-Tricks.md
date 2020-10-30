@@ -9,7 +9,7 @@ share: true
 ---
 
 
-# Python 3 Tips & Tricks
+# Python Tips & Tricks
 
 Here's a succinct list of tips and tricks in Python.  
 
