@@ -42,9 +42,10 @@ paginate:           5
 paginate_path:      /page:num/
 
 # Markdown
-markdown:           kramdown
-kramdown:
-  input:            GFM
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
 
 # Navigation
 nav:
