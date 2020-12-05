@@ -15,11 +15,13 @@ Here's a succinct list of tips and tricks in Python.
 
 Python is a powerful and simple language. There's some tricks that exists that we should use instead of reinventing the wheel.
 
-<img src="https://cdn.dribbble.com/users/74401/screenshots/3022594/d-snake1.png" style=" display: block; margin: 0 auto; width: 70%;" alt="Python Tips and Tricks">
+<img src="https://cdn.dribbble.com/users/74401/screenshots/3022594/d-snake1.png" style=" display: block; margin: 0 auto; width: 50%;" alt="Python Tips and Tricks">
+
+The goal is to let you know that exists, and if needed come back on this article to read how to do it. Let's go!
 
 _________________
 
-1.  **Understand your scope**
+**Understand your scope**
 As you should know, scoping in Python is respecting the LEGB rule, which is abbreviation for **L**ocal, **E**nclosing, **G**lobal, Built-in
 
 To make an assignment to a variable in a scope, it has to become local. Therefore, you won't be able to write a variable if it isn't global 
@@ -39,7 +41,7 @@ f()
 
 Note bene: using _nonlocal_ keyboard instead of _global_ would work as well.
 
-2.  **Enum (Python 3.4+)**
+**Enum (Python 3.4+)**
 Instead of over-using constants, you use Enum class.
 
 ```python
@@ -57,7 +59,7 @@ print(Color.GREEN)
 # Color.GREEN
 ```
 
-3. **Data Classes (Python 3.7+)**
+**Data Classes (Python 3.7+)**
 
 DRY (Don't repeat yourself). Use data classes, Python will generate spcial methods like __init__ and __repr__ reducing repetition in your code.
 
@@ -95,7 +97,7 @@ rectangle2 = Rectangle2("Blue, 2, 3)
 
 ```
    
-4.  **Pathlib (Python 3.4+)**
+**Pathlib (Python 3.4+)**
    
 The module pathlib is a clean way to intereact with the file system, far better than os.path or the glob module
 
@@ -113,7 +115,7 @@ print(path)
 # threads/sub/sub-sub
 ```
 
-5.  **Type Hints (Python 3.5+)**
+**Type Hints (Python 3.5+)**
    
 Typing is not necessary in Python, but it is useful for develpers after you, or you in few years. It makes your code cleaner and more understable.
 
@@ -128,7 +130,7 @@ Typing is not necessary in Python, but it is useful for develpers after you, or 
             return self.width * self.height 
 ```
 
-6.  **f-strings (3.6+)**
+**f-strings (3.6+)**
 
 Don't use .fomrat() to print your strings, f-strings is much more convinient and easier to maintain.
 
@@ -147,7 +149,7 @@ print(f"x = {x} and y = {y}.")
 
 ```
 
-7.  **Extendede iterable unpacking (Python 3.0+)**
+**Extendede iterable unpacking (Python 3.0+)**
 
 Using this trick, while unpacking an iterable, you can specify a "catch-all" variable that will be assigned a list of the items not assigned to a regular variable.
 
@@ -160,7 +162,7 @@ print(head, body, tail)
 
 ```
 
-8. **Async IO 5Python 3.4+**
+**Async IO 5Python 3.4+**
 
 The asyncio is a good module to write asynchronous code. 
 ```python
@@ -181,7 +183,7 @@ asyncio.un(hello())
 # World
 ```
 
-9.  **Underrscoores in Numeric Literals (Python 3.6+)**
+**Underrscoores in Numeric Literals (Python 3.6+)**
 
 ```python
 
@@ -192,7 +194,7 @@ printf(x, y, x == y)
 
 ```
 
-10. **Swapping Two Variables**
+**Swapping Two Variables**
 
 First idea when you need to swipe variables is to use a temporary variable, and blabla. But there's a better method without use a temporary variable, as such:
 
@@ -212,7 +214,7 @@ a, b = b, a
 # a = 60, b = 50
 ```
 
-11. **Reversing a string**
+**Reversing a string**
    
 In addition of swapping quickly a variable you need (not often, ok) to reverse a string, and it can be done extremely quickly.
 
@@ -222,7 +224,7 @@ rev_string = my_string[::-1]
 # ROT
 ```
 
-12. **Splitting words in a line**
+**Splitting words in a line**
 
 Of course, the old method of using .split() is a good way to do it.
 
@@ -232,13 +234,13 @@ splitted = string.split(' ')
 # ['This', 'is', 'a', 'sentence']
 ```
 
-13. **List of words into a line**
+**List of words into a line**
    
 Imagine you have ['This', 'is', 'a', 'sentence'], what to do?
 
 Use the ```python "".join(string)```
 
-14. **Joining two string using addition operator**
+**Joining two string using addition operator**
 
 ```python
 a = " I think "
@@ -247,7 +249,7 @@ print(a+b)
 # I think Python is great
 ```
 
-15. **More than one conditionnal operators**
+**More than one conditionnal operators**
 
 In contrario of thers programming langage, using mathematically borned notation is accepted in Python :)   
 
@@ -255,22 +257,23 @@ In contrario of thers programming langage, using mathematically borned notation 
 if ( 1 < a < 20):
 ```
 
-16. **Find most frequent element in a list**
+**Find most frequent element in a list**
 
 ```python
-    list = [1, 2, 3, 2, 2, 1, 1]
-    frequent = max(set(list), key=list.count)
-    # 1
+list = [1, 2, 3, 2, 2, 1, 1]
+frequent = max(set(list), key=list.count)
+# 1
 ```
 
-17. **Count occurence of elements in a list**
+**Count occurence of elements in a list**
 
 ```python
-    from collections import Counter
-    print(Counter(list))
+from collections import Counter
+
+print(Counter(list))
 ```
 
-18. **Repeating the element multiple times**
+**Repeating the element multiple times**
 
 ```python
 my_list = [3]
@@ -278,23 +281,26 @@ my_list = my_list*5
 # [3, 3, 3, 3, 3]
 ```
 
-19. **Using Ternary Operator**
+**Using Ternary Operator**
 
 ```python
 print("Eligible") if age>20 else print("Not Eligible")
 # Eligible
 ```
 
-20. **Rounding with Floor and Ceil**
+**Rounding with Floor and Ceil**
    
 ```python
 import math
+
 my_number = 18.7
 print(math.floor(my_number))
+# 18
 print(math.ceil(my_number))
+# 19
 ```
 
-21. **Function in one line**
+**Function in one line**
 
 ```python
 x = lambda a,b,c : a+b+c
@@ -302,7 +308,7 @@ print(x(10, 20, 30))
 # 60
 ```
 
-22. **Apply function for each element in a list**
+**Apply function for each element in a list**
    
 ```python
 l = ["a", "b"]
@@ -311,7 +317,7 @@ print(list(l))
 # ['a', 'b']
 ```
 
-23. **Lambda functon on each element in a list**
+**Lambda functon on each element in a list**
 
 ```python
 l = [1, 2, 3, 4, 5]
@@ -320,7 +326,7 @@ print(list(nl))
 # [1, 4, 9, 16, 25]
 ```
 
-24. **Return multiple values from a function**
+**Return multiple values from a function**
 ```python
 def function(n):
     return 1,2,3,4
@@ -329,7 +335,7 @@ print(a,b,c,d)
 # 1 2 3 4
 ```
 
-25. **Filtering the values using filter function**
+**Filtering the values using filter function**
 
 ```python
 def eligibility(age):
@@ -339,26 +345,27 @@ age = filter(eligibility, list_of_age)print(list(age))
 # [24, 27, 33, 30, 26, 25]
 ```
 
-26. **Merging two dictionnaries**
+**Merging two dictionnaries**
 
 ```python
-d1 = {'One':1, 'Two':2}
-d2 = {'Two':2, 'Three':3}
+d1 = {'Abra':1, 'Cadabra':2}
+d2 = {'Cadabra':2, 'World':3}
 dicti = {**d1, **d2}
 print(dicti)
-# {'One': 1, 'Two': 2, 'Three': 3}
+# {'Abra': 1, 'Cadabra': 2, 'World': 3}
 ```
 
-27. **Getting size of an object**
+**Getting size of an object**
 
 ```python
 import sys
+
 a = 5
 print(sys.getsizeof(a))
 # 28
 ```
 
-28. **Two lists into diictionnary**
+**Two lists into dictionnary**
    
 ```python
 l1 = ["One","Two","Three"]
@@ -368,20 +375,22 @@ print(dicti)
 # {'Two': 2, 'One': 1, 'Three': 3}
 ```
 
-29. **Calculating execution time for a program**
+**Calculating execution time for a program**
 
 ```python
 import time
+
 start = time.clock()
 for x in range(1000):
     pass
+
 end = time.clock()
-total = end - start
-print(total)
-# 0.00011900000000000105
+
+print(end - start)
+# 0.0002196058585480000
 ```
 
-30. **Removing duplicate elements in list**
+**Removing duplicate elements in list**
    
 ```python
 l = [1,4,1,8,2,8,4,5]
@@ -390,16 +399,20 @@ print(l)
 # [8, 1, 2, 4, 5]
 ```
 
-31. **Multiple assignment per variables**
+**Multiple assignment per variables**
 
 ```python
-a, b = 50, 60
-# a = 50, b = 60
-a, *b = 50, 60, 70
-# 50, [60, 70]
-a = b = c = 50
-# a = 50, b = 50, c = 50
+a, b = 10, 20
+# a = 10, b = 10
+a, *b = 10, 20, 30
+# 10, [20, 30]
+a = b = c = 10
+# a = 10, b = 10, c = 10
 ```
 _________________
+
+Of course, this is not a complete list of all existing Python's tricks, but it may be useful to know Python can do a lot of useful things in simple way. There is beauty in simplicity.
+
+If you want to read more articles on Python, see the excellent [How to Hire a Great Python Developer](https://www.toptal.com/python#hiring-guide) from our friends at [Toptal](https://www.toptal.com/)!
 
 Python is ❤️
