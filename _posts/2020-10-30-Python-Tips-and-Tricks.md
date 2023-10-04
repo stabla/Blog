@@ -413,6 +413,4 @@ _________________
 
 Of course, this is not a complete list of all existing Python's tricks, but it may be useful to know Python can do a lot of useful things in simple way. There is beauty in simplicity.
 
-If you want to read more articles on Python, see the excellent [How to Hire a Great Python Developer](https://www.toptal.com/python#hiring-guide) from our friends at [Toptal](https://www.toptal.com/)!
-
 Python is ❤️
