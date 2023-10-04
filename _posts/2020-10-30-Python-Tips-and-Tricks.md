@@ -8,9 +8,6 @@ comments: false
 share: true
 ---
 
-
-# Python Tips & Tricks
-
 Here's a succinct list of tips and tricks in Python.  
 
 Python is a powerful and simple language. There's some tricks that exists that we should use instead of reinventing the wheel.
