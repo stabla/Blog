@@ -8,8 +8,6 @@ comments: false
 share: true
 ---
 
-
-# A focus on recent DNS Hijacking Attacks (2019)
 # Also called DNSpionage
 On Nov. 27, 2018, [Cisco’s Talos research division published a write-up](https://blog.talosintelligence.com/2018/11/dnspionage-campaign-targets-middle-east.html) outlining the contours of a sophisticated cyber-espionage campaign it dubbed **“DNSpionage.”** We will introduce what happened and how it happened. 
 
