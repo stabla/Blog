@@ -11,7 +11,7 @@ share: true
 
 Time is precious, so let's get straight to the point.
 
-## The Problem
+## The problem
 Recently, while attempting to install a package using Go, I encountered an unusual error:
 
 ```bash
@@ -20,13 +20,14 @@ package crypto/ecdh is not in GOROOT
 
 Before running these commands, I would invite you to understand them and not trust blindly an internet article. However, if you're looking for the solution and knows about the commands listed below, just continue reading.
 
+## The solution
+
 To swiftly resolve this issue, follow these simple steps:
 
 Remove Existing Go binaries
 ```bash
 sudo rm -rf /bin/go
 ```
-
 
 Update the package list and address any missing dependencies:
 ```bash
