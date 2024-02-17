@@ -10,7 +10,7 @@ share: true
 In order to keep my own privacy, I have decided to hide my Instagram username. This story is relative to an event that happened during December, 2019.
 
 
-(![image](https://github.com/stabla/Blog/assets/16738734/832d8461-bf27-42ef-b32d-bb6a8de4ad58)
+![image](https://github.com/stabla/Blog/assets/16738734/832d8461-bf27-42ef-b32d-bb6a8de4ad58)
 
 
 During Winter 2019, I was bored and was losing time on Instagram. I am a big fan of Wim Hof (https://www.instagram.com/iceman_hof/), so it makes sense why I followed him. If you don’t know who Wim Hof is, aka. Ice Man, don’t hesitate to check some hof its accomplishment (to quote Wikipedia page):
