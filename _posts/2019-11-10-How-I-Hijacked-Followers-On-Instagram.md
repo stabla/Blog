@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I hijacked followers on Instagran back in 2019"
+title: "How I hijacked followers on Instagram back in 2019"
 description: "How I hijacked Instagram followers of Wim Hof and drained 700+ followers within a week."
 date: 2019-11-10
 tags: [instagram, social, hijacking, blog]
