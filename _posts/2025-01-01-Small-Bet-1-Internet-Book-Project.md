@@ -12,7 +12,7 @@ share: true
 ![Internet Book Project](/images/internetbookproject.png){: .center-image .small-image}
 
 ## Overview
-The Internet Book Project is an experimental collaborative writing initiative that aims to create a unique literary work through micro-contributions from people across the internet. Each participant can contribute up to 20 words for a small fee of $5, working together to reach our goal of 180,000 words.
+The Internet Book Project is an experimental collaborative writing initiative that aims to create a unique literary work through micro-contributions from people across the internet. Each participant can contribute up to 20 words for a small fee of $2, working together to reach our goal of 180,000 words.
 
 Of course, if internet decides to put non-sense words, it would be accepted. However, the project will be more interesting if the words are meaningful and contribute to the narrative.
 
@@ -28,7 +28,7 @@ The project explores several interesting concepts:
 
 ## How It Works
 
-1. Contributors submit up to 20 words for $5
+1. Contributors submit up to 20 words for $2
 2. Each submission goes through moderation
 3. Approved submissions become part of the growing narrative
 4. Contributors can include their username and optional URL
