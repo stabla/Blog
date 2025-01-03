@@ -27,6 +27,14 @@ body {
   }
 }
 
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.tiny-image {
+  max-width: 200px; /* or whatever size you want */
+}
 
 /*--------------
   Header

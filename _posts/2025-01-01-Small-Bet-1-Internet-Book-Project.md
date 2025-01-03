@@ -9,10 +9,15 @@ share: true
 ---
 # Small Bet #1: Internet Book Project
 
-![Internet Book Project](/images/internetbookproject.png){: .center-image .small-image}
+![Internet Book Project](/images/internetbookproject.png){: .center-image .tiny-image}
 
 ## Overview
 The Internet Book Project is an experimental collaborative writing initiative that aims to create a unique literary work through micro-contributions from people across the internet. Each participant can contribute up to 20 words for a small fee of $2, working together to reach our goal of 180,000 words.
+
+## Project URL
+
+Visit the project at [internetbookproject.com](https://internetbookproject.com) to make your contribution or follow our progress.
+
 
 Of course, if internet decides to put non-sense words, it would be accepted. However, the project will be more interesting if the words are meaningful and contribute to the narrative.
 
@@ -51,6 +56,5 @@ The project launched on January 1st, 2025, and is actively accepting contributio
 We welcome feedback and suggestions from the community. This is an experimental project, and we're open to evolving the concept based on participant input and experiences.
 
 Feel free to share your thoughts or get involved by making a contribution!
-
-Follow me on twitter @gsbonnet: https://x.com/gsbonnet <br>
-Contact me: www.guillaumebonnet.fr
+Follow me on [Twitter @gsbonnet](https://twitter.com/gsbonnet) <br>
+Contact me: [guillaumebonnet.fr](https://www.guillaumebonnet.fr)
