@@ -9,7 +9,7 @@ share: true
 ---
 # Small Bet #1: Internet Book Project
 
-[![Internet Book Project](/images/internetbookproject.png){: .center-image .tiny-image}](https://internetbookproject.com)
+[![Internet Book Project](/images/internetbookproject.png){: .center-image .tiny-image}](https://www.internetbookproject.com)
 
 ## Overview
 The Internet Book Project is an experimental collaborative writing initiative that aims to create a unique literary work through micro-contributions from people across the internet. Each participant can contribute up to 20 words for a small fee of $2, working together to reach our goal of 180,000 words.
@@ -48,7 +48,7 @@ The project launched on January 1st, 2025, and is actively accepting contributio
 
 ## Project URL
 
-Visit the project at [internetbookproject.com](https://internetbookproject.com) to make your contribution or follow our progress.
+Visit the project at [www.internetbookproject.com](https://www.internetbookproject.com) to make your contribution or follow our progress.
 
 ## Feedback
 
