@@ -67,5 +67,5 @@ Visit the project at [www.doubleitshowit.com](https://www.doubleitshowit.com) to
 We welcome feedback and suggestions from the community. This is an experimental project, and we're open to evolving the concept based on participant input and experiences.
 
 Feel free to share your thoughts or get involved by making a contribution!
-Follow me on [Twitter @gsbonnet](https://twitter.com/gsbonnet) <br>
+Follow me on [Twitter @gsbonnet](https://twitter.com/gsbonnet)<br>
 Contact me: [guillaumebonnet.fr](https://www.guillaumebonnet.fr)
