@@ -2,7 +2,7 @@
 layout: post
 title: "Small Bet #2: Double it, show it"
 description: "An exponential auction wall where each spot costs double the previous one"
-date: 2025-13-01
+date: 2025-01-13
 tags: [smallbet, small, bet, '2025', project, auction, experiment]
 comments: false
 share: true
