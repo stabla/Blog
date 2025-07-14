@@ -2,7 +2,7 @@
 layout: post
 title: "Small Bet #3: SecNews – AI‑Powered Cybersecurity News"
 description: "A subscription‑based platform delivering curated cybersecurity news, AI‑driven insights, and real‑time threat intelligence."
-date: 2025‑07‑14
+date: 2025-07-14
 tags: [smallbet, small, bet, 2025, project, cybersecurity, news, ai, subscription, security]
 comments: false
 share: true
