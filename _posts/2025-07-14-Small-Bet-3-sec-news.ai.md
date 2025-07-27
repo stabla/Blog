@@ -44,16 +44,6 @@ SecNews was built to explore and validate several key areas:
 - **Responsive Design**: Fully optimized for mobile and desktop.
 - **Admin Dashboard**: Content and user analytics.
 
-## Technology Stack
-
-- **Frontend**: Next.js (TypeScript) with Tailwind CSS  
-- **Backend**: Next.js API routes powered by Prisma ORM  
-- **Database**: PostgreSQL with automated migrations  
-- **Authentication**: NextAuth.js with magic links  
-- **Payments**: Stripe for subscription management  
-- **Email**: Resend for transactional communications  
-- **Deployment**: Cloud‑native infrastructure with auto‑scaling
-
 ## Content Coverage
 
 SecNews delivers broad cybersecurity content, including:
