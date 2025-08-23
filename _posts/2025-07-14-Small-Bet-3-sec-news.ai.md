@@ -63,7 +63,7 @@ SecNews delivers broad cybersecurity content, including:
 ### Advanced Tier
 - Alerts for all important CVEs (CVSS ≥ 8.0)
 - Extended product and tech‑stack tracking
-- Three weekly AI‑generated summaries tailored to your profile :contentReference[oaicite:1]{index=1}
+- Three weekly AI‑generated summaries tailored to your profile
 
 ### Premium Tier
 - Alerts for all CVEs and emerging threats (all CVSS levels)
@@ -71,9 +71,9 @@ SecNews delivers broad cybersecurity content, including:
 - Three weekly AI summaries (profile‑tailored)
 - API access for integrations
 - Profile‑specific news streams (e.g. operations, tactics, strategy)
-- Executive-level summaries of industry content and research :contentReference[oaicite:2]{index=2}
+- Executive-level summaries of industry content and research
 
-**Note**: Advanced and Premium newsletters are delivered every Monday, Wednesday, and Friday, with exclusive Monday and Friday editions for subscribed profiles :contentReference[oaicite:3]{index=3}.
+**Note**: Advanced and Premium newsletters are delivered every Monday, Wednesday, and Friday, with exclusive Monday and Friday editions for subscribed profiles.
 
 ## Current Status
 
