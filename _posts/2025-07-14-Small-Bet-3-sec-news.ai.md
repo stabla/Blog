@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Small Bet #3: SecNews – AI‑Powered Cybersecurity News"
+title: "Small Bet #3: sec-news.ai – AI‑Powered Cybersecurity News"
 description: "A subscription‑based platform delivering curated cybersecurity news, AI‑driven insights, and real‑time threat intelligence."
 date: 2025-07-14
 tags: [smallbet, small, bet, 2025, project, cybersecurity, news, ai, subscription, security]
@@ -8,17 +8,17 @@ comments: false
 share: true
 ---
 
-# Small Bet #3: SecNews – AI‑Powered Cybersecurity News
+# Small Bet #3: sec-news.ai – AI‑Powered Cybersecurity News
 
-[![SecNews Platform](https://www.sec-news.ai/secnewslogo.png){: .center-image .tiny-image}](https://sec-news.ai)
+[![sec-news.ai Platform](https://www.sec-news.ai/sec-news.ailogo.png){: .center-image .tiny-image}](https://sec-news.ai)
 
 ## Overview
 
-SecNews is an AI‑powered cybersecurity news platform designed to deliver curated, real‑time security intelligence to professionals and enthusiasts alike. Built with modern web technologies and seamless subscription management, SecNews offers tiered access to comprehensive threat intelligence, vulnerability reports, and expert analysis.
+sec-news.ai is an AI‑powered cybersecurity news platform designed to deliver curated, real‑time security intelligence to professionals and enthusiasts alike. Built with modern web technologies and seamless subscription management, sec-news.ai offers tiered access to comprehensive threat intelligence, vulnerability reports, and expert analysis.
 
 ## Purpose
 
-SecNews was built to explore and validate several key areas:
+sec-news.ai was built to explore and validate several key areas:
 
 - AI‑driven news curation and advanced filtering
 - Real‑time cybersecurity intelligence
@@ -46,7 +46,7 @@ SecNews was built to explore and validate several key areas:
 
 ## Content Coverage
 
-SecNews delivers broad cybersecurity content, including:
+sec-news.ai delivers broad cybersecurity content, including:
 
 - **Vulnerability Reports**: CVE updates and critical advisories  
 - **Industry News**: Market trends and company developments  
@@ -77,7 +77,7 @@ SecNews delivers broad cybersecurity content, including:
 
 ## Current Status
 
-Launched in June 2025, SecNews now actively serves cybersecurity professionals worldwide with timely, curated intelligence. The platform continues to evolve based on user feedback and emerging security trends, reinforcing its role as a trusted source of actionable cybersecurity insights.
+Launched in June 2025, sec-news.ai now actively serves cybersecurity professionals worldwide with timely, curated intelligence. The platform continues to evolve based on user feedback and emerging security trends, reinforcing its role as a trusted source of actionable cybersecurity insights.
 
 ## Explore
 
