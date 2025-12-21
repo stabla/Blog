@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Small Bet #2: Double it, show it"
+title: "Small Bet #2: Double it, show it (Failed & Down 2025)"
 description: "An exponential auction wall where each spot costs double the previous one"
 date: 2025-01-13
 tags: [smallbet, small, bet, '2025', project, auction, experiment]
@@ -12,6 +12,8 @@ share: true
 [![Double it, show it](/images/doubleitshowit.png){: .center-image .tiny-image}](https://www.doubleitshowit.com)
 
 ## Overview
+This project is now down. No inertia. 2025.
+
 Welcome to the world's first exponential auction wall! Each spot costs double the price of the previous one, creating a unique space where value grows with every contribution. Your message will be permanently displayed on this wall, with its size and prominence reflecting your contribution level. Early contributors get more visibility for less.
 
 Want to be part of this experiment? Overtake the top spot!
