@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Small Bet #1: Internet Book Project"
+title: "Small Bet #1: Internet Book Project (Failed & Down - 2025)" 
 description: "A collaborative writing experiment to create a book with micro-contributions from the internet"
 date: 2025-01-01
 tags: [smallbet, small, bet, '2025', project, writing, collaboration, experiment]
@@ -12,6 +12,8 @@ share: true
 [![Internet Book Project](/images/internetbookproject.png){: .center-image .tiny-image}](https://www.internetbookproject.com)
 
 ## Overview
+This project is now down. No inertia. 2025.
+
 The Internet Book Project is an experimental collaborative writing initiative that aims to create a unique literary work through micro-contributions from people across the internet. Each participant can contribute up to 20 words for a small fee of $2, working together to reach our goal of 180,000 words.
 
 Of course, if internet decides to put non-sense words, it would be accepted. However, the project will be more interesting if the words are meaningful and contribute to the narrative.
