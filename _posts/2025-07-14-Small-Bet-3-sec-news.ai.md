@@ -6,6 +6,7 @@ date: 2025-07-14
 tags: [smallbet, project, cybersecurity, news, ai, security]
 comments: false
 share: true
+published: false
 ---
 
 # Small Bet #3: sec-news.ai

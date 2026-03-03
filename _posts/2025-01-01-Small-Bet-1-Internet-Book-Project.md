@@ -6,6 +6,7 @@ date: 2025-01-01
 tags: [smallbet, project, writing, collaboration, experiment]
 comments: false
 share: true
+published: false
 ---
 
 # Small Bet #1: Internet Book Project

@@ -6,6 +6,7 @@ date: 2020-10-29
 tags: [article, tips, tricks, python, blog]
 comments: false
 share: true
+published: false
 ---
 
 Here's a succinct list of tips and tricks in Python.  

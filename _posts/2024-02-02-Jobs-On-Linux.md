@@ -6,6 +6,7 @@ date: 2024-02-02
 tags: [article, linux, jobs, processes, background, tasks]
 comments: false
 share: true
+published: false
 ---
 
 # Linux processes: push them in the background

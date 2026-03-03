@@ -6,6 +6,7 @@ date: 2024-02-02
 tags: [article, issue, fix, golang]
 comments: false
 share: true
+published: false
 ---
 # Resolving $GOROOT Issue: Save Time with Quick Fixes
 

@@ -6,6 +6,7 @@ date: 2025-01-13
 tags: [smallbet, project, auction, experiment]
 comments: false
 share: true
+published: false
 ---
 
 # Small Bet #2: Double it, show it
