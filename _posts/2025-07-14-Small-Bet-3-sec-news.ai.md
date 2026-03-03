@@ -1,92 +1,40 @@
 ---
 layout: post
-title: "Small Bet #3: sec-news.ai – AI‑Powered Cybersecurity News"
-description: "A subscription‑based platform delivering curated cybersecurity news, AI‑driven insights, and real‑time threat intelligence."
+title: "Small Bet #3: sec-news.ai"
+description: "An AI-powered cybersecurity news platform delivering curated threat intelligence through tiered subscriptions."
 date: 2025-07-14
-tags: [smallbet, small, bet, 2025, project, cybersecurity, news, ai, subscription, security]
+tags: [smallbet, project, cybersecurity, news, ai, security]
 comments: false
 share: true
 ---
 
-# Small Bet #3: sec-news.ai – AI‑Powered Cybersecurity News
+# Small Bet #3: sec-news.ai
 
 [![sec-news.ai Platform](https://www.sec-news.ai/sec-news.ailogo.png){: .center-image .tiny-image}](https://sec-news.ai)
 
-## Overview
+**Status**: Active since June 2025.
 
-sec-news.ai is an AI‑powered cybersecurity news platform designed to deliver curated, real‑time security intelligence to professionals and enthusiasts alike. Built with modern web technologies and seamless subscription management, sec-news.ai offers tiered access to comprehensive threat intelligence, vulnerability reports, and expert analysis.
+## The idea
 
-## Purpose
+An AI-curated cybersecurity news platform. AI models scan global security sources, filter noise, and deliver actionable intelligence — CVEs, threat reports, industry research — through tiered subscriptions.
 
-sec-news.ai was built to explore and validate several key areas:
+## How it works
 
-- AI‑driven news curation and advanced filtering
-- Real‑time cybersecurity intelligence
-- Tiered access models for different audiences
-- Automated content management and delivery
-- Scalable, modern web application design
+1. **Curation**: AI scans and filters global cybersecurity sources
+2. **Delivery**: Automated email alerts and a live dashboard
+3. **Personalization**: Feeds tailored to user preferences and reading habits
+4. **Access control**: Role-based permissions aligned with subscription tier
 
-## How It Works
+## Pricing
 
-1. **Content Curation**: AI models scan and filter global cybersecurity sources.  
-2. **Subscription Tiers**: Free (basic), Advanced (enhanced), Premium (leader‑level).  
-3. **Real‑Time Delivery**: Automated email alerts and live dashboard updates.  
-4. **Personalization**: Tailored feeds based on user preferences and reading habits.  
-5. **Access Control**: Role‑based permissions aligned with subscription level.
+- **Free** (€0): Wednesday edition with curated cybersecurity news
+- **Premium** (€2/month): Full weekly coverage — Monday, Wednesday, Friday editions plus research paper and blog summaries
+- **Premium Lifetime** (€33 one-time): Lifetime access to all premium features
 
-## Key Features
+## What's different from Bet #1 and #2
 
-- **Multi‑Tier Subscription**: Free, Advanced, and Premium options.
-- **AI‑Powered Curation**: Intelligent filtering and categorization of security news.
-- **Real‑Time Updates**: Live dashboard with latest threats and trends.
-- **Email Notifications**: Automated delivery of curated content.
-- **Secure Authentication**: Magic link‑based login for seamless access.
-- **Responsive Design**: Fully optimized for mobile and desktop.
-- **Admin Dashboard**: Content and user analytics.
+This one solves a real problem. Security professionals are drowning in noise — CVE feeds, vendor advisories, research papers, Twitter threads. sec-news.ai filters that down to what matters for *your* stack.
 
-## Content Coverage
+The previous bets were novelty plays with no retention hook. This has daily utility.
 
-sec-news.ai delivers broad cybersecurity content, including:
-
-- **Vulnerability Reports**: CVE updates and critical advisories  
-- **Industry News**: Market trends and company developments  
-- **Threat Intelligence**: Malware, ransomware, and emerging attack vectors  
-- **Research Insights**: Latest findings from academia and industry  
-
-## Subscription Plans
-
-### Free Tier
-- Alerts for disruptive and critical CVEs (CVSS ≥ 8.0)
-- Customizable domain tracking (Applications, Web, Networks...)
-- One weekly AI‑generated news summary
-
-### Advanced Tier
-- Alerts for all important CVEs (CVSS ≥ 8.0)
-- Extended product and tech‑stack tracking
-- Three weekly AI‑generated summaries tailored to your profile
-
-### Premium Tier
-- Alerts for all CVEs and emerging threats (all CVSS levels)
-- Full customization: domains, products, tech stacks
-- Three weekly AI summaries (profile‑tailored)
-- API access for integrations
-- Profile‑specific news streams (e.g. operations, tactics, strategy)
-- Executive-level summaries of industry content and research
-
-**Note**: Advanced and Premium newsletters are delivered every Monday, Wednesday, and Friday, with exclusive Monday and Friday editions for subscribed profiles.
-
-## Current Status
-
-Launched in June 2025, sec-news.ai now actively serves cybersecurity professionals worldwide with timely, curated intelligence. The platform continues to evolve based on user feedback and emerging security trends, reinforcing its role as a trusted source of actionable cybersecurity insights.
-
-## Explore
-
-Visit [sec‑news.ai](https://sec-news.ai) to explore the platform, customize your profile, and select the tier that best aligns with your security intelligence needs.
-
-## Feedback & Connect
-
-We welcome feedback from the cybersecurity community to continuously improve our content, features, and user experience.
-
-Feel free to share your thoughts or get involved by subscribing today!  
-Follow me on [Twitter @gsbonnet](https://twitter.com/gsbonnet)  
-Connect: [guillaumebonnet.fr](https://www.guillaumebonnet.fr)
+[sec-news.ai](https://sec-news.ai)

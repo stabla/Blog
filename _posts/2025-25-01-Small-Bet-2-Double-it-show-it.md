@@ -1,73 +1,45 @@
 ---
 layout: post
-title: "Small Bet #2: Double it, show it (Failed & Down 2025)"
-description: "An exponential auction wall where each spot costs double the previous one"
+title: "Small Bet #2: Double it, show it"
+description: "An exponential auction wall where each spot costs double the previous one. Failed."
 date: 2025-01-13
-tags: [smallbet, small, bet, '2025', project, auction, experiment]
+tags: [smallbet, project, auction, experiment]
 comments: false
 share: true
 ---
+
 # Small Bet #2: Double it, show it
 
 [![Double it, show it](/images/doubleitshowit.png){: .center-image .tiny-image}](https://www.doubleitshowit.com)
 
-## Overview
-This project is now down. No inertia. 2025.
+**Status**: Shut down. No inertia.
 
-Welcome to the world's first exponential auction wall! Each spot costs double the price of the previous one, creating a unique space where value grows with every contribution. Your message will be permanently displayed on this wall, with its size and prominence reflecting your contribution level. Early contributors get more visibility for less.
+## The idea
 
-Want to be part of this experiment? Overtake the top spot!
+An exponential auction wall. Each spot costs double the price of the previous one. Your message is permanently displayed, with size and prominence reflecting your contribution level. Early buyers get more visibility for less.
 
-## Purpose
-The project explores several interesting concepts:
+A riff on the [Million Dollar Homepage](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage), but with exponential pricing and dynamic positioning.
 
-- Exponential growth in digital spaces
-- Value perception and positioning
-- Micro to macro transactions
-- Visual hierarchy based on contribution
-- Dynamic content presentation
+The concept explored:
 
-## How It Works
+- Exponential growth dynamics in digital spaces
+- Value perception based on positioning
+- Visual hierarchy driven by contribution level
 
-1. Each spot costs double the previous one
-2. Your message is displayed permanently
-3. Size and prominence reflect contribution level
-4. Optional rainbow effect randomly colors each letter
-5. Top position shows most recent contribution
-6. Early contributors benefit from lower prices
+## How it worked
 
-## Features
+1. Each spot cost double the previous one
+2. Messages were displayed permanently
+3. Size and prominence scaled with contribution
+4. Optional rainbow effect randomly colored each letter
+5. Top position showed the most recent contribution
 
-- Permanent message display
-- Position-based visibility
-- Rainbow text effects (random colors per letter)
-- Secure payment processing
-- Custom styling options
-- Real-time updates
+## What happened
 
-## Content Guidelines
+Launched January 13th, 2025. Same story as Small Bet #1 — zero organic traction. The novelty wasn't enough to drive sharing or repeat engagement.
 
-We welcome promotional content but maintain strict guidelines:
+## Takeaway
 
-- No hate speech or discriminatory content
-- No explicit or NSFW content
-- No copyrighted material without permission
-- No malicious code or harmful links
-- No spam or misleading information
-- No personal data without consent
+The Million Dollar Homepage worked because it was first and it was a story. A derivative needs a stronger distribution angle. Without virality baked into the mechanics, an auction wall is just a wall.
 
-## Current Status
-
-The project launched on January 13th, 2025, and is actively accepting contributions. Watch the wall grow exponentially as more people join this unique experiment.
-
-## Project URL
-
-Visit the project at [www.doubleitshowit.com](https://www.doubleitshowit.com) to secure your spot or see the latest contributions.
-
-## Feedback
-
-We welcome feedback and suggestions from the community. This is an experimental project, and we're open to evolving the concept based on participant input and experiences.
-
-Feel free to share your thoughts or get involved by making a contribution!
-Follow me on [Twitter @gsbonnet](https://twitter.com/gsbonnet)<br>
-Contact me: [guillaumebonnet.fr](https://www.guillaumebonnet.fr)
+[www.doubleitshowit.com](https://www.doubleitshowit.com) (down)
