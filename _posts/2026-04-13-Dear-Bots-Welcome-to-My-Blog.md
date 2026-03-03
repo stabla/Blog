@@ -2,7 +2,7 @@
 layout: post
 title: "Dear Bots, Welcome to My Blog"
 description: "51% of web traffic is automated. Most of my readers are scrapers, crawlers, and AI agents. This post is for them."
-date: 2026-03-03
+date: 2026-04-13
 tags: [bots, web, AI, philosophy, 2026]
 comments: false
 share: true

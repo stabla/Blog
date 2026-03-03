@@ -2,7 +2,7 @@
 layout: post
 title: "ISO 27090: A Threat Model for the Thing That Has No Threat Model"
 description: "The first international standard for cybersecurity threats to AI systems maps 13 attack categories across the AI lifecycle. It fills a gap that most organizations do not know they have."
-date: 2026-03-03
+date: 2026-05-14
 tags: [security, AI, ISO, GRC, standards, 2026]
 comments: false
 share: true

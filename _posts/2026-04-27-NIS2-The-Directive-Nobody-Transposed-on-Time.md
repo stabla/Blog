@@ -2,7 +2,7 @@
 layout: post
 title: "NIS2: The Directive Nobody Transposed on Time"
 description: "The EU gave 27 member states two years to implement NIS2. Only 4 made the deadline. 23 got infringement proceedings. Europe's biggest cybersecurity mandate is off to a chaotic start."
-date: 2026-03-03
+date: 2026-04-27
 tags: [security, NIS2, GRC, compliance, regulation, europe, 2026]
 comments: false
 share: true
