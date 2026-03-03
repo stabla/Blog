@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.stabla.me/sitemap.xml

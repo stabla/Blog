@@ -4,19 +4,18 @@
 
 # Basic
 name:               "stabla"
+description:        "Personal blog by stabla. Security, tech, and small bets."
+lang:               en
 
 author:
-  link:             "stabla.me"
+  link:             "www.stabla.me"
   github:           stabla
-  linkedin:         gs-bonnet
   codepen:          shs
   dribbble:         stabla
-  twitter:          gsbonnet
   medium:           stabla
-  email:            contact@guillaumebonnet.fr
 
 copyright:
-  year:             2025
+  year:             2026
   name:             "stabla"
 
 # Google-analytics
@@ -28,7 +27,7 @@ disqus:
   id:               "stb-blog"
 
 # URL
-url:                "http://blog.stabla.me" # the base hostname & protocol for your site
+url:                "https://blog.stabla.me" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop https://AWEEKJ.github.io
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -77,8 +76,12 @@ defaults:
       layout:       "post"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-gems:
+twitter:
+  username:           stabla
+
+plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-admin
 

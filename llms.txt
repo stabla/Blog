@@ -1,0 +1,34 @@
+# stabla
+
+> Personal blog covering cybersecurity, emerging threats, and small entrepreneurial experiments. Written by stabla.
+
+The blog focuses on offensive security research, post-quantum cryptography, cloud infrastructure risks, and AI-driven attack tooling. It also documents a series of failed and active micro-projects ("small bets") exploring internet economics.
+
+## Security
+
+- [The Cloud Has a Physical Address](https://blog.stabla.me/2026-03-08/The-Cloud-Has-a-Physical-Address/): Iranian drone strikes hit AWS data centers in the UAE and Bahrain — the first kinetic military attack on major cloud infrastructure.
+- [Your Hosting Panel Is Already For Sale](https://blog.stabla.me/2026-03-14/Your-Hosting-Panel-Is-Already-For-Sale/): Analysis of 200,000 underground posts selling compromised cPanel credentials as commodity phishing infrastructure.
+- [The OAuth Redirect That Phishing Filters Cannot See](https://blog.stabla.me/2026-03-11/The-OAuth-Redirect-That-Phishing-Filters-Cannot-See/): Attackers abusing OAuth error flows to route victims through legitimate Microsoft infrastructure before dropping them on phishing pages.
+- [When Offensive Tools Get an AI Brain](https://blog.stabla.me/2026-03-05/When-Offensive-Tools-Get-an-AI-Brain/): An open-source AI offensive security platform compromised 600+ FortiGate appliances across 55 countries.
+- [The Qubit Curve Only Goes One Way](https://blog.stabla.me/2026-03-03/The-Qubit-Curve-Only-Goes-One-Way/): RSA qubit requirements dropped from 20 million to 5,000 in seven years. The post-quantum migration window is closing.
+- [Understanding DNS Hijacking (2019)](https://blog.stabla.me/2019-04-08/Understand-the-DNS-Hijacking-Attack-(2019)/): Technical breakdown of the DNSpionage campaign that compromised 28 organizations across 12 countries via DNS registrar hijacking.
+- [How I Hijacked Followers on Instagram](https://blog.stabla.me/2019-11-10/How-I-Hijacked-Followers-On-Instagram/): Exploiting a typo in Wim Hof's Instagram post to drain 700+ followers within a week by claiming the misspelled username.
+
+## Small Bets
+
+- [sec-news.ai](https://blog.stabla.me/2025-07-14/Small-Bet-3-sec-news.ai/): AI-curated cybersecurity news platform with tiered subscriptions for real-time threat intelligence.
+- [Internet Book Project](https://blog.stabla.me/2025-01-01/Small-Bet-1-Internet-Book-Project/): Crowdsourced book where contributors submit up to 20 words for $2 each. Failed.
+- [Double it, show it](https://blog.stabla.me/2025-01-13/Small-Bet-2-Double-it-show-it/): Exponential auction wall where each spot costs double the previous one. Failed.
+
+## Optional
+
+- [Linux Processes Cheatsheet](https://blog.stabla.me/2024-02-02/Jobs-On-Linux/): Quick reference for background process management on Linux (jobs, fg, bg, disown).
+- [Golang: Package is not in GOROOT](https://blog.stabla.me/2024-02-02/Package-is-not-in-GOROOT/): Fix for the GOROOT package resolution error in Go.
+- [Python Tips & Tricks](https://blog.stabla.me/2020-10-30/Python-Tips-and-Tricks/): Collection of Python techniques including data classes, type hints, async IO, and f-strings.
+
+## Links
+
+- [Blog](https://blog.stabla.me)
+- [Site](https://www.stabla.me)
+- [GitHub](https://github.com/stabla)
+- [RSS](https://blog.stabla.me/feed.xml)
