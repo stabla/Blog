@@ -37,7 +37,7 @@ The concept explored:
 
 ## What happened
 
-Launched January 13th, 2025. Same story as Small Bet #1 — zero organic traction. The novelty wasn't enough to drive sharing or repeat engagement.
+Launched January 13th, 2025. Same story as Small Bet #1. Zero organic traction. The novelty wasn't enough to drive sharing or repeat engagement.
 
 ## Takeaway
 

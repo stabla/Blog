@@ -17,7 +17,7 @@ published: false
 
 ## The idea
 
-A crowdsourced book built from micro-contributions. Anyone could submit up to 20 words for $2, working toward a goal of 180,000 words. Non-sense contributions were accepted — hateful content was not.
+A crowdsourced book built from micro-contributions. Anyone could submit up to 20 words for $2, working toward a goal of 180,000 words. Non-sense contributions were accepted. Hateful content was not.
 
 The concept explored:
 
@@ -35,7 +35,7 @@ The concept explored:
 
 ## What happened
 
-Launched January 1st, 2025. The project never gained traction — no organic growth, no community momentum. Shut it down rather than force something that wasn't working.
+Launched January 1st, 2025. The project never gained traction. No organic growth, no community momentum. Shut it down rather than force something that wasn't working.
 
 ## Takeaway
 

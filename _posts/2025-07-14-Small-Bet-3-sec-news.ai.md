@@ -17,7 +17,7 @@ published: false
 
 ## The idea
 
-An AI-curated cybersecurity news platform. AI models scan global security sources, filter noise, and deliver actionable intelligence — CVEs, threat reports, industry research — through tiered subscriptions.
+An AI-curated cybersecurity news platform. AI models scan global security sources, filter noise, and deliver actionable intelligence (CVEs, threat reports, industry research) through tiered subscriptions.
 
 ## How it works
 
@@ -29,12 +29,12 @@ An AI-curated cybersecurity news platform. AI models scan global security source
 ## Pricing
 
 - **Free** (€0): Wednesday edition with curated cybersecurity news
-- **Premium** (€2/month): Full weekly coverage — Monday, Wednesday, Friday editions plus research paper and blog summaries
+- **Premium** (€2/month): Full weekly coverage: Monday, Wednesday, Friday editions plus research paper and blog summaries
 - **Premium Lifetime** (€33 one-time): Lifetime access to all premium features
 
 ## What's different from Bet #1 and #2
 
-This one solves a real problem. Security professionals are drowning in noise — CVE feeds, vendor advisories, research papers, Twitter threads. sec-news.ai filters that down to what matters for *your* stack.
+This one solves a real problem. Security professionals are drowning in noise: CVE feeds, vendor advisories, research papers, Twitter threads. sec-news.ai filters that down to what matters for *your* stack.
 
 The previous bets were novelty plays with no retention hook. This has daily utility.
 
